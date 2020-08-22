@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project...
 - 📫 How to reach me: ...
 -->
-<a href="https://github.com/sultan254/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=github-readme-stats" />
-</a>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sultan254&show_icons=true&theme=radical)
 <a href="https://github.com/sultan254/blogger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=blogger" />
 </a>
