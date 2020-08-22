@@ -14,5 +14,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?sultan254=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?sultan254=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?sultan254=anuraghazra&repo=blogger" />
 </a>
