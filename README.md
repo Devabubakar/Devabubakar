@@ -13,7 +13,7 @@
 <br />
 <br />
 
-**Hi , Am a dynamic web developer 💻  and passionate learner from Kenya who is comfortable speaking to clients as well as fellow developers. Eager to ride cutting-edge technologies, alongside building long lasting applications and scallable websites . <br>**
+**Hi , Am a dynamic web developer 💻  and a passionate learner from Kenya who is comfortable speaking to clients as well as fellow developers. Eager to ride cutting-edge technologies, alongside building long lasting applications and scallable websites . <br>**
 
 
 - 🔭 I’m currently working on my [**Blog project**](https://github.com/sultan254/blogger);
