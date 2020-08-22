@@ -13,8 +13,8 @@
 <br />
 <br />
 
-Hi , Am a dynamic web developer 💻  and passionate learner from kenya who is comfortable speaking to clients as well as fellow developers. Eager to ride cutting-edge technologies, alongside building long lasting applications and scallable websites . <br>
-**Talking about Personal Stuff:**
+**Hi , Am a dynamic web developer 💻  and passionate learner from Kenya who is comfortable speaking to clients as well as fellow developers. Eager to ride cutting-edge technologies, alongside building long lasting applications and scallable websites . <br>**
+
 
 - 🔭 I’m currently working on my [**Blog project**](https://github.com/sultan254/blogger);
 - 🌱 I’m currently learning JavaScript, React,Node ;
@@ -34,7 +34,7 @@ Hi , Am a dynamic web developer 💻  and passionate learner from kenya who is c
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
