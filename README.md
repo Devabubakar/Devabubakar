@@ -42,8 +42,8 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sultan254&show_icons=true&theme=tokyonight" alt="sultan254" /> </p>
 <br/>
-<a href="https://github.com/sultan254/blogger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=blogger&theme=dracula" />
+<a href="https://github.com/sultan254/image_finder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=image_finder&theme=dracula" />
 </a>
 <a href="https://github.com/sultan254/github-profiler">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=github-profiler&theme=dracula" />
@@ -53,5 +53,6 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsultan254%2Fsutan254&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
