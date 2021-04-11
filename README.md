@@ -16,15 +16,12 @@
 **Hi , Am a dynamic web developer 💻  and a passionate learner from Kenya who is comfortable speaking to clients as well as fellow developers. Eager to ride cutting-edge technologies, alongside building long lasting applications and scallable websites . <br>**
 
 
-- 🔭 I’m currently working on my [**Blog project**](https://github.com/sultan254/blogger);
-- 🌱 I’m currently learning JavaScript, React,Node ;
+- 🔭 I’m currently working on my [**Data structure and algorithm skills**](https://github.com/sultan254/blogger);
+- 🌱 In love with Javascript Ecosystem (MongoDB,React, Node Js, Express Js)
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: The more you help others the more you help yourself
 - 📫 How to reach me: [abubakarali3w@gmail.com](mailto:abubakarali3w@gmail.com);
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sultan254&show_icons=true&theme=radical&count_private=true&line_height=27)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultan254&theme=radical)](https://github.com/sultan254/github-readme-stats)
 
 *Languages and Tools:**
 
@@ -43,7 +40,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sultan254&show_icons=true&theme=tokyonight" alt="sultan254" /> </p>
 <br/>
 <a href="https://github.com/sultan254/image_finder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=image_finder&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=Monster-Rolodex&theme=dracula" />
 </a>
 <a href="https://github.com/sultan254/github-profiler">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=github-profiler&theme=dracula" />
