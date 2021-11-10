@@ -37,15 +37,6 @@
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sultan254&show_icons=true&theme=tokyonight" alt="sultan254" /> </p>
-<br/>
-<a href="https://github.com/sultan254/Monster-Rolodex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=Monster-Rolodex&theme=dracula" />
-</a>
-<a href="https://github.com/sultan254/github-profiler">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan254&repo=github-profiler&theme=dracula" />
-</a>
-<div align="center">
 
 <div align="center">
 
