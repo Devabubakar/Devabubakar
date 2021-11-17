@@ -1,46 +1,33 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Abubakar Ali</h1>
+<h5 align="center">
+A 3rd-year student pursuing Bachelors in Computer science at Kirinyaga University . I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Devabubakar&label=Profile%20views&color=0e75b6&style=flat" alt="Devabubakar" /> </p>
+<p>
+<a align= "center" href="https://github.com/Devabubakar">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Devabubakar&theme=radical">
+<img align="right" height="350" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Devabubakar&count_private=true&theme=radical&show_icons=true" />
 
-<a href="https://www.linkedin.com/in/abubakarali254/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/sultan_geek/">
-  <img align="left" alt="Abhishek's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/RealAbu3">
-  <img align="left" alt="Abhishek Maira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<p align="left"> <a href="https://twitter.com/Devabubakar" target="blank"><img src="https://img.shields.io/twitter/follow/Devabubakar?logo=twitter&style=for-the-badge" alt="Devabubakar" /></a> </p>
 
-<br />
-<br />
+- 📫 How to reach me **Abubakarali3w@gmail.com**
+<br><br>
+<hr>
 
-**Hi , I'm a dynamic web developer 💻  and a passionate learner from Kenya who is comfortable speaking to clients as well as fellow developers. Eager to ride cutting-edge technologies, alongside building long lasting applications and scallable websites . <br>**
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/Devabubakar" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="Devabubakar" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/Devabubakar/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Devabubakar" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-
-- 🔭 I’m currently working on my [**Data structure and algorithm skills**](https://github.com/sultan254/blogger);
-- 🌱 In love with Javascript Ecosystem (MongoDB,React, Node Js, Express Js)
-- 👨🏻‍💻 I’m looking to collaborate on kick ass products;
-- 📫 How to reach me: [abubakarali3w@gmail.com](mailto:abubakarali3w@gmail.com);
-
-
-
-*Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<hr>
 
 
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsultan254%2Fsutan254&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+<p align="center">
+  <img src="https://github.com/Devabubakar/Devabubakar/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
