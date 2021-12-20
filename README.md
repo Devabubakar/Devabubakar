@@ -2,10 +2,12 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Abubakar Ali</h1>
-<h5 align="center">
+<h4 align="start">
 A 3rd-year student pursuing Bachelors in Computer science at Kirinyaga University . I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Devabubakar&label=Profile%20views&color=0e75b6&style=flat" alt="Devabubakar" /> </p>
+
+- 📫 How to reach me **Abubakarali3w@gmail.com**
+
 <p>
 <a align= "center" href="https://github.com/Devabubakar">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Devabubakar&theme=radical">
@@ -21,7 +23,6 @@ A 3rd-year student pursuing Bachelors in Computer science at Kirinyaga Universit
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devabubakar&show_icons=true&locale=en&layout=compact" alt="devabubakar" /></p>
 
 
-- 📫 How to reach me **Abubakarali3w@gmail.com**
 <br><br>
 <hr>
 
