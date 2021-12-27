@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="start">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Abubakar Ali</h1>
@@ -6,7 +6,7 @@
 A 3rd-year student pursuing Bachelors in Computer science at Kirinyaga University . I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
 </h5>
 
-- 📫 How to reach me **Abubakarali3w@gmail.com**
+-📫 How to reach me **Abubakarali3w@gmail.com**
 
 <p>
 <a align= "center" href="https://github.com/Devabubakar">
