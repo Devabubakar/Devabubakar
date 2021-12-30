@@ -6,7 +6,7 @@
 A 3rd-year student pursuing Bachelors in Computer science at Kirinyaga University . I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
 </h5>
 
--📫 How to reach me **Abubakarali3w@gmail.com**
+📫 How to reach me **Abubakarali3w@gmail.com**
 
 <p>
 <a align= "center" href="https://github.com/Devabubakar">
