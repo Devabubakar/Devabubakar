@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Abubakar Ali</h1>
 <h4 align="start">
-A 3rd-year student pursuing Bachelors in Computer science at Kirinyaga University . I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
+I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
 </h5>
 
 📫 How to reach me **Abubakarali3w@gmail.com**
