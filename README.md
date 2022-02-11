@@ -7,7 +7,7 @@ I'm a passionate WebDeveloper , eager to build impactful products and use techno
 </h5>
 
 📫 How to reach me **Abubakarali3w@gmail.com** <br/>
-🚀 My resume **https://bit.ly/Abubakarcv**
+🚀 My resume **https://bit.ly/abubakarcv**
 
 <p>
 <a align= "center" href="https://github.com/Devabubakar">
