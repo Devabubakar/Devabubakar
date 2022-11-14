@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Abubakar Ali</h1>
 <h4 align="start">
-I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
+I'm a determined Software Developer eager to use technology to provide impactful solutions. I have vast experience in converting a design specification into working prototypes
 </h5>
 
 📫 How to reach me **Abubakarali3w@gmail.com** <br/>
