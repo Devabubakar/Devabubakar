@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Abubakar Ali</h1>
 <h4 align="start">
-I'm a determined Software Developer eager to use technology to provide impactful solutions. I have vast experience in converting a design specification into working prototypes
+As a determined Software Developer, I am passionate about using technology to create meaningful solutions. With my extensive experience in turning design plans into working prototypes, I am eager to use my skills to make a difference in the field of software development. When I'm not busy coding, you can find me thinking of new ways to use technology to drive progress and innovation.
 </h5>
 
 📫 How to reach me **Abubakarali3w@gmail.com** <br/>
