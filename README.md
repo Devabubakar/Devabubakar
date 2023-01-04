@@ -2,9 +2,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Abubakar Ali</h1>
-<h4 align="start">
-As a determined Software Developer, I am passionate about using technology to create meaningful solutions. With my extensive experience in turning design plans into working prototypes, I am eager to use my skills to make a difference in the field of software development. When I'm not busy coding, you can find me thinking of new ways to use technology to drive progress and innovation.
-</h5>
+<p align="start">
+As a determined Software Developer, I am passionate about using technology to create meaningful solutions. My superpower is turning abstract design ideas into tangible, working prototypes, and I can't wait to use my skills to make a difference in the exciting world of software development. When I'm not coding, you can find me dreaming up new ways to use technology to change the world for the better.
+</p>
 
 📫 How to reach me **Abubakarali3w@gmail.com** <br/>
 🚀 My resume **https://bit.ly/abubakarcv**
