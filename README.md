@@ -7,7 +7,7 @@ As a determined Software Developer, I am passionate about using technology to cr
 </p>
 
 📫 How to reach me **Abubakarali3w@gmail.com** <br/>
-🚀 My resume **https://bit.ly/abubakarcv**
+🚀 My resume **https://bit.ly/cvabubakar**
 
 <p>
 <a align= "center" href="https://github.com/Devabubakar">
