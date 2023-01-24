@@ -1,7 +1,7 @@
 
 # Hi there 👋 
 - 🔭 I’m Abubakar Ali
-- 🌱 I’m a [Software Engineer](https://www.linkedin.com/in/devabubakar/), my superpower is turning abstract design ideas into tangible, working prototypes.
+- 🌱 A [Software Engineer](https://www.linkedin.com/in/devabubakar/) whose superpower is turning abstract design ideas into tangible, working prototypes.
 - 📫 How to reach me **Abubakarali3w@gmail.com**
 - 🚀 My resume **https://bit.ly/cvabubakar**
 - 🤔 I’m on Twitter [@Devabubakar](https://twitter.com/Devabubakar)
