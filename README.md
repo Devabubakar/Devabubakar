@@ -5,7 +5,6 @@
 - 📫 How to reach me **Abubakarali3w@gmail.com**
 - 🚀 My area of focus revolves around Semantic Search, Embeddings and Platform Development (Microservice)
 - 🤔 I’m on Twitter [@Devabubakar](https://twitter.com/Devabubakar)
-- 👯 I’m looking to collaborate on C#, Javascript , Golang.
 
 
 
